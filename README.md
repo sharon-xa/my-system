@@ -14,6 +14,7 @@ Some configurations that I want on every linux installation.
 - Node (npm)
 
 ### Multimedia
+- digiKam
 - GIMP       
 - Inkscape   
 - Spotify
@@ -72,4 +73,3 @@ Some configurations that I want on every linux installation.
 - Nerd Font FiraCode
 - Intel One Mono
 - Cascadia Code
-
