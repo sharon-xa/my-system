@@ -5,9 +5,7 @@ Some configurations that I want on every linux installation.
 ## Apps
 
 ### Development
-- VScode
 - Vim & Neovim
-- Clion or Codelite
 - Pycharm
 - Rust
 - Go
@@ -56,7 +54,7 @@ Some configurations that I want on every linux installation.
 ### CLI                
 - Fish
 - Curl & Wget
-- yay (with pacman)
+- pikaur (with pacman)
 - nala (with apt)
 - neofetch
 - auto-cpufreq
@@ -68,6 +66,8 @@ Some configurations that I want on every linux installation.
 - gh (github-cli)
 - lsd
 - jq
+- bottom (btm)
+- gdu
 
 ## Fonts
 - Nerd Font FiraCode
