@@ -51,7 +51,7 @@ Some configurations that I want on every linux installation.
 - libreOffice
 - Xpad
 
-### CommandLine Interface
+### CLI
 - **curl**: command line tool and library for transferring data with URLs
 - **wget**: Network utility to retrieve files from the Web
 - **pikaur**: AUR helper which asks all questions before installing/building. Inspired by pacaur, yaourt and yay.
@@ -65,7 +65,7 @@ Some configurations that I want on every linux installation.
 - **lsd**: Modern ls with a lot of pretty colors and awesome icons
 - **jq**: Command-line JSON processor
 
-#### CommandLine Application
+### CommandLine Application
 - **ranger**: Simple, vim-like file manager
 - **lf**: A terminal file manager inspired by ranger
 - **ncdu**: Disk usage analyzer with an ncurses interface
