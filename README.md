@@ -52,26 +52,27 @@ Some configurations that I want on every linux installation.
 - Xpad
 
 ### CommandLine Interface
-- curl     : command line tool and library for transferring data with URLs
-- wget     : Network utility to retrieve files from the Web
-- pikaur   : AUR helper which asks all questions before installing/building. Inspired by pacaur, yaourt and yay.
-- yay      : Yet another yogurt. Pacman wrapper and AUR helper written in go.
-- nala     : Package management utility with better formatting. Front-end for the `python-apt` API.
-- fastfetch: Like Neofetch, but much faster because written in C
-- tlp      : Linux Advanced Power Management
-- tree     : A directory listing program displaying a depth indented list of files
-- tldr     : Command line client for tldr, a collection of simplified man pages.
-- gh       : The GitHub CLI
-- lsd      : Modern ls with a lot of pretty colors and awesome icons
-- jq       : Command-line JSON processor
+- **curl**: command line tool and library for transferring data with URLs
+- **wget**: Network utility to retrieve files from the Web
+- **pikaur**: AUR helper which asks all questions before installing/building. Inspired by pacaur, yaourt and yay.
+- **yay**: Yet another yogurt. Pacman wrapper and AUR helper written in go.
+- **nala**: Package management utility with better formatting. Front-end for the `python-apt` API.
+- **fastfetch**: Like Neofetch, but much faster because written in C
+- **tlp**: Linux Advanced Power Management
+- **tree**: A directory listing program displaying a depth indented list of files
+- **tldr**: Command line client for tldr, a collection of simplified man pages.
+- **gh**: The GitHub CLI
+- **lsd**: Modern ls with a lot of pretty colors and awesome icons
+- **jq**: Command-line JSON processor
 
 #### CommandLine Application
-- ranger: Simple, vim-like file manager
-- lf    : A terminal file manager inspired by ranger
-- ncdu  : Disk usage analyzer with an ncurses interface
-- cmus  : Feature-rich ncurses-based music player
-- bottom: A graphical process/system monitor
-- gdu   : Fast disk usage analyzer
+- **ranger**: Simple, vim-like file manager
+- **lf**: A terminal file manager inspired by ranger
+- **ncdu**: Disk usage analyzer with an ncurses interface
+- **cmus**: Feature-rich ncurses-based music player
+- **bottom**: A graphical process/system monitor
+- **gdu**: Fast disk usage analyzer
+- **laztgit**: Simple terminal UI for git commands
 
 
 ## Fonts
