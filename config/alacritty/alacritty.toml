@@ -1,0 +1,42 @@
+import = ["/usr/lib/node_modules/alacritty-themes/themes/Monokai.dark.toml"]
+
+[font]
+size = 11
+
+[font.bold]
+family = "FiraCode Nerd Font Propo"
+style = "Bold"
+
+[font.italic]
+family = "FiraCode Nerd Font SemBd"
+style = "Italic"
+
+[font.normal]
+family = "FiraCode Nerd Font"
+style = "Regular"
+
+[font.offset]
+x = 0
+y = 0
+
+[font.glyph_offset]
+x = 0
+y = 0
+
+[window]
+decorations = "Full"
+opacity = 0.9
+
+[window.dimensions]
+columns = 100
+lines = 26
+
+[window.padding]
+x = 16
+y = 16
+
+[terminal]
+osc52 = "CopyPaste"
+
+[selection]
+save_to_clipboard = true
