@@ -66,6 +66,7 @@ Some configurations that I want on every linux installation.
 - **jq**: Command-line JSON processor
 
 ### CommandLine Application
+- **nmtui**: Network connection manager and user applications
 - **ranger**: Simple, vim-like file manager
 - **lf**: A terminal file manager inspired by ranger
 - **ncdu**: Disk usage analyzer with an ncurses interface
