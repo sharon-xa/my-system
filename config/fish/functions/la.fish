@@ -1,3 +1,3 @@
-function la --wraps ls --description "List contents of directory, including hidden files in directory using long format"
-    lsd -lAh $argv --group-directories-first
+function la --wraps eza --description "lists everything with directories first"
+    eza -lah $argv --group-directories-first
 end
