@@ -73,7 +73,7 @@ Some configurations that I want on every linux installation.
 - **cmus**: Feature-rich ncurses-based music player
 - **bottom**: A graphical process/system monitor
 - **gdu**: Fast disk usage analyzer
-- **laztgit**: Simple terminal UI for git commands
+- **lazygit**: Simple terminal UI for git commands
 
 
 ## Fonts
