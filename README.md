@@ -62,6 +62,7 @@ Some configurations that I want on every linux installation.
 - **tree**: A directory listing program displaying a depth indented list of files
 - **tldr**: Command line client for tldr, a collection of simplified man pages.
 - **gh**: The GitHub CLI
+TODO: replace lsd
 - **lsd**: Modern ls with a lot of pretty colors and awesome icons
 - **jq**: Command-line JSON processor
 
